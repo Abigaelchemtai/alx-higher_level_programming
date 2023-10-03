@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Enter your Favourite Commit Message:"
+echo "Enter commit message"
 read message
 
 git add .
